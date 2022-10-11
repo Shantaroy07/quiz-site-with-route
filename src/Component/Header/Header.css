@@ -1,3 +1,10 @@
 .header {
-    width: 400px;
+    border: 2px solid gray;
+    border-radius: 10px;
+
+}
+
+.header img {
+    margin: 2px;
+    border-radius: 5px;
 }

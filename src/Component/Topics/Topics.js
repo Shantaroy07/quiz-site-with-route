@@ -10,7 +10,7 @@ const Topics = () => {
         <div>
             <Header></Header>
             <div className='container mx-auto'>
-                <div className='grid grid-cols-1 md:grid-cols-4 gap-3 mt-5 '>
+                <div className='grid grid-cols-1 md:grid-cols-4 gap-3 mt-5 mx-auto'>
                     {
                         languages.map(language => <Language
                             key={language.id}

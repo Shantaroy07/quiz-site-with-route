@@ -3,7 +3,7 @@ import './Header.css'
 
 const Header = () => {
     return (
-        <div className='header container mx-auto flex flex-col md:flex-row'>
+        <div className='header container mx-auto flex flex-col md:flex-row mt-5 w-3/4 md:w-full'>
             <img src="https://media.istockphoto.com/photos/innovation-and-new-ideas-lightbulb-concept-with-question-mark-picture-id1348235111?b=1&k=20&m=1348235111&s=170667a&w=0&h=xPxnIB4yuzeNyPmk0c92Xicl9dO4iGfO2qyjp8ZkQB4=" alt="" />
             <div className='text-center p-3'>
                 <h1 className='text-2xl font-semibold'>Web Development Quizzes....</h1>
