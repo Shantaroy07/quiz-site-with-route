@@ -1,0 +1,12 @@
+.quiz {
+    border: 2px solid palevioletred;
+    background-color: lightblue;
+    border-radius: 5px;
+
+}
+
+.quiz hr {
+    background-color: black;
+    height: 2px;
+
+}
