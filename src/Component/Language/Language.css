@@ -1,0 +1,14 @@
+.singleLanguage {
+    border: 2px solid gray;
+    height: 400px;
+    width: 300px;
+    border-radius: 10px;
+
+}
+
+.singleLanguage img {
+    background-color: black;
+    width: 90%;
+    border-radius: 10px;
+    margin: 10px;
+}
