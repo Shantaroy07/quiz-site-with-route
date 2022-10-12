@@ -11,6 +11,10 @@ const Blog = () => {
                 <h1>How does context API works?</h1>
                 <p>The React Context API is a way for a React app to effectively produce global variables that can be passed around. This is the alternative to "prop drilling" or moving props from grandparent to child to parent, and so on. Context is also touted as an easier, lighter approach to state management using Redux.</p>
             </div>
+            <div>
+                <h1>Explain about usehref()</h1>
+                <p> The useHref hook returns a URL that may be used to link to the given to location, even outside of React Router.useRef returns a mutable ref object whose .current property is initialized to the passed argument (initialValue). The returned object will persist for the full lifetime of the component.</p>
+            </div>
         </div>
     );
 };
